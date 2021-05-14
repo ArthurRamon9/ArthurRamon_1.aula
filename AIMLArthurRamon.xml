@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+<category>
+<pattern> O que é AIML </pattern>
+<template> AIML, é uma linguagem baseada em XML desenvolvida para criar diálogos semelhante a linguagem natural por meio de softwares, simulando assim inteligência humana. Fonte: Wikipedia </template>
+</category><br/>
+
+
+<category>
+<pattern> O que é HTML </pattern>
+<template> HTML abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção de páginas na Web. </template>
+</category><br/>
+
+
+<category>
+<pattern> HTML </pattern>
+<template> HTML abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção de páginas na Web. </template>
+</category><br/>
+
+
+<category>
+<pattern> como é seu nome? </pattern>
+<template> Arthur </template>
+</category><br/>
+
+
+<category>
+<pattern> Em que ano estamos? </pattern>
+<template> 2021  </template>
+</category><br/>
+
+<category>
+<pattern> o que é rainbow six </pattern>
+<template> Tom Clancy's Rainbow Six Siege é um videojogo do género first person shooter produzido pela Ubisoft Montreal. Foi anunciado pela Ubisoft a 9 de Junho de 2014 na Electronic Entertainment Expo 2014 onde foi muito aplaudido pela crítica. Foi lançado para Xbox One, PlayStation 4 e para Microsoft Windows. Fonte: Wikipédia </template>
+</category><br/>
+
+<category>
+<pattern> o que e rainbow six </pattern>
+<template> Tom Clancy's Rainbow Six Siege é um videojogo do género first person shooter produzido pela Ubisoft Montreal. Foi anunciado pela Ubisoft a 9 de Junho de 2014 na Electronic Entertainment Expo 2014 onde foi muito aplaudido pela crítica. Foi lançado para Xbox One, PlayStation 4 e para Microsoft Windows. Fonte: Wikipédia </template>
+</category><br/>
+
+<category>
+<pattern> o que é rainbow six? </pattern>
+<template> Tom Clancy's Rainbow Six Siege é um videojogo do género first person shooter produzido pela Ubisoft Montreal. Foi anunciado pela Ubisoft a 9 de Junho de 2014 na Electronic Entertainment Expo 2014 onde foi muito aplaudido pela crítica. Foi lançado para Xbox One, PlayStation 4 e para Microsoft Windows. Fonte: Wikipédia </template>
+</category><br/>
+
+<category>
+<pattern> o que e rainbow six? </pattern>
+<template> Tom Clancy's Rainbow Six Siege é um videojogo do género first person shooter produzido pela Ubisoft Montreal. Foi anunciado pela Ubisoft a 9 de Junho de 2014 na Electronic Entertainment Expo 2014 onde foi muito aplaudido pela crítica. Foi lançado para Xbox One, PlayStation 4 e para Microsoft Windows. Fonte: Wikipédia caso queira acessar a pagina <a href="https://pt.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_Siege" target="_blank">  </a> </template>
+</category><br/>
+
+<category>
+<pattern> onde posso joga Rainbow six? </pattern>
+<template> pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category><br/>
+
+<category>
+<pattern> que plataformas roda rainbow six? </pattern>
+<template> pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category><br/>
+
+<category>
+<pattern> que plataformas roda rainbow six </pattern>
+<template> pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category><br/>
+
+<category>
+<pattern> onde posso joga Rainbow six </pattern>
+<template> pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category><br/>
+
+<category>
+<pattern> Como posso jogar rainbow six? </pattern>
+<template> Pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a> </template>
+</category><br/>
+
+<category>
+<pattern> Como posso jogar rainbow six </pattern>
+<template> Pode jogar em diferentes plataformas como: computador, PS4, PS5, Xbox One e Xbox Series S/X caso queira ver mais acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category> <br/>
+
+<category>
+<pattern> onde compro rainbow six? </pattern>
+<template> Na Ubisoft Store acesse <a href="https://store.ubi.com/ofertas/home?lang=pt_BR" target="_blank">  </a></template>
+</category><br/>
+
+<category>
+<pattern> onde compro rainbow six </pattern>
+<template> Na Ubisoft Store </template>
+</category><br/>
+
+<category>
+<pattern> Onde compro alimentos sem sair de casa? </pattern>
+<template> Compre no Zaffari acesse o site para ver mais <a href="https://www.zaffari.com.br" target="_blank"> </template>
+</category><br/>
+
+
+<category>
+        <pattern>
+            Rainbow six
+        </pattern>
+        <template>
+            <srai>rainbow six</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+            como jogo rainbow six?
+        </pattern>
+        <template>
+            <srai>rainbow six</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+            Rainbow six
+        </pattern>
+        <template>
+            <srai>rainbow six</srai>
+        </template>
+    </category> 
+
+    <category>
+        <pattern>
+            onde encontro o rainbow para vender?
+        </pattern>
+        <template>
+            <srai>rainbow six</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>rainbow six</pattern>
+        <template>
+            Rainbow six é um jogo de FPS, lançado em 2015, caso queira conferir mais informações acesse <a href="https://pt.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_Siege" target="_blank">  </a>
+        </template>
+    </category>
+
+
+</aiml>
