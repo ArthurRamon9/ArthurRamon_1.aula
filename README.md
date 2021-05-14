@@ -1,1 +1,3 @@
-# Taking a technical programming course
+- 💻 I’m currently studying at Senacrs
+- 💻 I’m currently learning code
+- 💻 I’m looking to collaborate on projects
